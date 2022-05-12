@@ -1,0 +1,10 @@
+Lombardia;28;12;2018;500
+Lombardia;28;12;2016;500
+Lombardia;25;12;2015;500
+Lombardia;28;12;2015;200
+Veneto;25;12;2016;200
+Campania;27;11;2017;100
+Campania;14;11;2017;100
+Campania;07;11;2017;100
+Sicilia;15;08;2010;0
+Lazio;18;09;2011;10
